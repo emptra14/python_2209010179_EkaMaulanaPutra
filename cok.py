@@ -1,1 +1,1 @@
-we4ryprint ('Hello Word')eryeryery
+print ('Hello Word')
